@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TBH1/static/css/main.cf01961e.chunk.css",
+    "main.js": "/TBH1/static/js/main.4067b2b7.chunk.js",
+    "main.js.map": "/TBH1/static/js/main.4067b2b7.chunk.js.map",
+    "runtime-main.js": "/TBH1/static/js/runtime-main.2334034d.js",
+    "runtime-main.js.map": "/TBH1/static/js/runtime-main.2334034d.js.map",
+    "static/js/2.71af4608.chunk.js": "/TBH1/static/js/2.71af4608.chunk.js",
+    "static/js/2.71af4608.chunk.js.map": "/TBH1/static/js/2.71af4608.chunk.js.map",
+    "index.html": "/TBH1/index.html",
+    "precache-manifest.47dfeef82e66a1a5cb98ae28cc293f0f.js": "/TBH1/precache-manifest.47dfeef82e66a1a5cb98ae28cc293f0f.js",
+    "service-worker.js": "/TBH1/service-worker.js",
+    "static/css/main.cf01961e.chunk.css.map": "/TBH1/static/css/main.cf01961e.chunk.css.map",
+    "static/media/BlogCss.css": "/TBH1/static/media/blogtablet.32f2f781.png",
+    "static/media/SpaceCss.css": "/TBH1/static/media/spacetablet.20b51967.png",
+    "static/media/ContactCss.css": "/TBH1/static/media/contacttablet.36de21a7.png",
+    "static/media/HomeCss.css": "/TBH1/static/media/homebgtablet.b826e60e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2334034d.js",
+    "static/js/2.71af4608.chunk.js",
+    "static/css/main.cf01961e.chunk.css",
+    "static/js/main.4067b2b7.chunk.js"
+  ]
+}
