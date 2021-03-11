@@ -1,0 +1,43 @@
+.navLogo {
+  width: 115px;
+}
+.navbar {
+  background-color: #282828;
+  padding: 0px !important;
+  z-index: 9999999999;
+  text-align: center;
+}
+
+.navbar-nav a {
+  padding: 28px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+
+  /* font-family: Arial; */
+  font-style: normal;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.navbar-brand {
+  margin-left: 300px;
+}
+@media (max-width: 600px) {
+  .navbar-brand {
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 992px) and (min-width: 601px) {
+  .navbar-brand {
+    margin-left: 10px;
+  }
+}
+
+.navbar-toggler {
+  margin: 10px;
+}
